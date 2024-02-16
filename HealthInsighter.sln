@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{737CB3A4-E677-4179-9FCA-B1DAAD1778A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsighter.Core", "src\HealthInsighter.Core\HealthInsighter.Core.csproj", "{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsighter.Data", "src\HealthInsighter.Data\HealthInsighter.Data.csproj", "{D2A10E0C-0D0B-48EF-BAE0-0792B9124507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsighter.Infrastructure", "src\HealthInsighter.Infrastructure\HealthInsighter.Infrastructure.csproj", "{04D3406D-D576-4A56-9A25-A6B1560AEC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsighter.Web", "src\HealthInsighter.Web\HealthInsighter.Web.csproj", "{206FC808-DDC5-4C12-8957-3D100FFCF9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthInsighter.Tests", "src\HealthInsighter.Tests\HealthInsighter.Tests.csproj", "{59773E83-5A88-408A-88CF-8CC3D738872A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A10E0C-0D0B-48EF-BAE0-0792B9124507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A10E0C-0D0B-48EF-BAE0-0792B9124507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A10E0C-0D0B-48EF-BAE0-0792B9124507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A10E0C-0D0B-48EF-BAE0-0792B9124507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D3406D-D576-4A56-9A25-A6B1560AEC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D3406D-D576-4A56-9A25-A6B1560AEC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D3406D-D576-4A56-9A25-A6B1560AEC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D3406D-D576-4A56-9A25-A6B1560AEC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206FC808-DDC5-4C12-8957-3D100FFCF9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206FC808-DDC5-4C12-8957-3D100FFCF9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206FC808-DDC5-4C12-8957-3D100FFCF9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206FC808-DDC5-4C12-8957-3D100FFCF9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59773E83-5A88-408A-88CF-8CC3D738872A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59773E83-5A88-408A-88CF-8CC3D738872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59773E83-5A88-408A-88CF-8CC3D738872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59773E83-5A88-408A-88CF-8CC3D738872A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5A9E6BF-A668-483C-BEE8-33B41CF5AC63} = {737CB3A4-E677-4179-9FCA-B1DAAD1778A8}
+		{D2A10E0C-0D0B-48EF-BAE0-0792B9124507} = {737CB3A4-E677-4179-9FCA-B1DAAD1778A8}
+		{04D3406D-D576-4A56-9A25-A6B1560AEC1A} = {737CB3A4-E677-4179-9FCA-B1DAAD1778A8}
+		{206FC808-DDC5-4C12-8957-3D100FFCF9C7} = {737CB3A4-E677-4179-9FCA-B1DAAD1778A8}
+		{59773E83-5A88-408A-88CF-8CC3D738872A} = {737CB3A4-E677-4179-9FCA-B1DAAD1778A8}
+	EndGlobalSection
+EndGlobal
