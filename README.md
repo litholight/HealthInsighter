@@ -13,6 +13,12 @@ HealthInsighter aligns with these principles by enabling users to:
 
 Inspired by "The Age of Scientific Wellness," HealthInsighter strives to be a tool that individuals can use to contribute to their personalized health journey, embodying the spirit of active participation and empowerment in one's wellness.
 
+## The Story and Potential Behind HealthInsighter's Data Models
+
+We've crafted a narrative that not only showcases the foundational aspects of HealthInsighter's data models but also hints at the potential they unlock for personal health management and analysis. This story, featuring a hypothetical user named Alex, illustrates how the interplay of `RecordType` and `HealthEventType` data can provide comprehensive insights into one's health, potentially uncovering early signs of more serious conditions.
+
+Dive into [The Story and Potential Behind HealthInsighter's Data Models](https://github.com/litholight/HealthInsighter/wiki/The-Story-and-Potential-Behind-HealthInsighter's-Data-Models) on our wiki to see how HealthInsighter aims to revolutionize personal health management by making sense of health data in ways that were previously unattainable.
+
 ## Getting Started
 
 These instructions will guide you through setting up the project on your local machine for development and testing purposes.
